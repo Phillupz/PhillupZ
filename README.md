@@ -4,21 +4,21 @@
 
 ## 🤖 Tools and Technologies
 
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/HTML.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/CSS.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/JS.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/TS.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Redux.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Ruby.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Rails.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Python.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Node.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/React.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Android.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Apple.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg" style="padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/HTML.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/CSS.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/JS.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/TS.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Redux.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Ruby.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Rails.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Python.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Node.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/React.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Android.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Apple.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg" style="align=left; padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" style="align=left; padding-right: 10px;">
 
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
@@ -47,10 +47,10 @@ My professional experience revolves around collaborating with clients and team m
 ## 💬 Get In Touch
 
 <a href="https://www.linkedin.com/in/phillup-zukowski/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg" style="padding-right: 10px;">
+  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg" style="align=left; padding-right: 10px;">
 </a>
 <a href="mailto:phillup.zukowski@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg" style="padding-right: 10px;">
+  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg" style="align=left; padding-right: 10px;">
 </a>
 
 
