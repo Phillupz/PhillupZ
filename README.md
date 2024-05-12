@@ -33,6 +33,7 @@ My professional experience revolves around collaborating with clients and team m
 <span style="display: block; margin-top: 40px;"></span>
 
 ## :star2: Project Highlight
+![](my_video.mov)
 <div style="display: flex; justify-content: center; margin-top: 50px;">
   <div style="min-width: 15em; max-width: 25; margin-right: 15px;">
     <video controls width="250">
