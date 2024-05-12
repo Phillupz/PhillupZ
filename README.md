@@ -4,21 +4,22 @@
 
 ## 🤖 Tools and Technologies
 
-![HTML](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/HTML.svg)
-![CSS](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/CSS.svg)
-![JS](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/JS.svg)
-![TS](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/TS.svg)
-![Redux](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Redux.svg)
-![Ruby](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Ruby.svg)
-![Rails](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Rails.svg)
-![Python](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Python.svg)
-![Node](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Node.svg)
-![React](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/React.svg)
-![Android](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Android.svg)
-![Apple](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Apple.svg)
-![Google Cloud](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg)
-![Firebase](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg)
-![AWS](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg)
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/HTML.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/CSS.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/JS.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/TS.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Redux.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Ruby.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Rails.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Python.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Node.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/React.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Android.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Apple.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg" style="padding-right: 10px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" style="padding-right: 10px;">
+
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
@@ -45,8 +46,13 @@ My professional experience revolves around collaborating with clients and team m
 
 ## 💬 Get In Touch
 
-[![LinkedIn](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg)](https://www.linkedin.com/in/phillup-zukowski/)
-[![Email](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg)](mailto:phillup.zukowski@gmail.com)
+<a href="https://www.linkedin.com/in/phillup-zukowski/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg" style="padding-right: 10px;">
+</a>
+<a href="mailto:phillup.zukowski@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg" style="padding-right: 10px;">
+</a>
+
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
