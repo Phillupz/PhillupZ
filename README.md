@@ -19,8 +19,10 @@
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 10px;">
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 10px;">
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 10px;">
+<br><br/>
+<br><br/>
 
-
+ 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
