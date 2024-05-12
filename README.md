@@ -39,12 +39,12 @@ My professional experience revolves around collaborating with clients and team m
 
 <!-- Project Details -->
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th style="text-align: left;"> Description </th>
-    <th style="text-align: left;"> Technologies </th>
-  </tr>
-  <tr>
+<table border="0">
+ <tr>
+    <td style="min-width: 35; max-width:55"><b style=" font-size:30px">Description</b></td>
+    <td style="min-width: 35; max-width:55"><b style="font-size:30px">Technologies</b></td>
+ </tr>
+ <tr>
     <td style="vertical-align: top; width: 50%;">
       ChatrrApp is a VoIP app that rewards users for making calls. Inspired by the need to ease financial burdens and driven by a vision to democratize advertising, ChatrrApp introduces ChatrrCash, paying users for every call made.
       <br>
@@ -57,7 +57,7 @@ My professional experience revolves around collaborating with clients and team m
       <br>
       <a href="https://www.chatrrapp.com/" style="color: #4ADEDD;">ChatrrApp.com</a>
     </td>
-    <td style="vertical-align: top; width: 50%; padding-right: 20px;">
+    <td>
       <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;">
         <li>Node.js</li>
         <li>TypeScript</li>
@@ -73,7 +73,7 @@ My professional experience revolves around collaborating with clients and team m
         <li>CSS</li>
       </ul>
     </td>
-  </tr>
+ </tr>
 </table>
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
