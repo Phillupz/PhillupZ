@@ -4,21 +4,21 @@
 
 ## 🤖 Tools and Technologies
 
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/HTML.svg" align="left" height="50" width="50" height="50" style="margin-right: 10px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/CSS.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/JS.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/TS.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Redux.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Ruby.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Rails.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Python.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Node.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/React.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Android.svg" align="left" height="50" width="50" style="margin-right: 20px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Apple.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
-<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" align="left" height="50" width="50" style="margin-right: 10px; margin-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/HTML.svg" align="left" height="50" width="50" height="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/CSS.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/JS.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/TS.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Redux.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Ruby.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Rails.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Python.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Node.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/React.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Android.svg" align="left" height="50" width="50" style="margin-right: 20px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Apple.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
+<img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" align="left" height="50" width="50" style="margin-right: 10px; padding-top: 20px;">
 <br><br/>
 <br><br/>
 <br><br/>
