@@ -126,16 +126,6 @@ This is the additional information that will appear when the dropdown is expande
 This is the additional information that will appear when the dropdown is expanded.
 </details>
 
-<style>
-/* Add custom color to the chevron */
-summary::-webkit-details-marker {
-    color: #4AA9DE; /* For Chrome browsers */
-}
-summary::marker {
-    color: #4AA9DE; /* For Firefox browsers */
-}
-</style>
-
 
 <span style="display: block; margin-top: 20px;"></span>
 
