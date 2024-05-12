@@ -1,5 +1,15 @@
 ![Header](assets/media//header-image.png)
 
+<!-- Header Image -->
+
+<a href="https://github.com/Phillupz#gh-light-mode-only">
+  <img src="assets/media/header-image.png-light.png" alt="Light header image" />
+</a>
+
+<a href="https://github.com/Phillupz#gh-dark-mode-only">
+  <img src="assets/media/header-image.png-dark.png" alt="Dark header image" />
+</a>
+
 <span style="display: block; margin-top: 40px;"></span>
 
 ## 🤖 Tools and Technologies
