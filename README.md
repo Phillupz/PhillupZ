@@ -1,4 +1,4 @@
-![Header](assets/header-image.png)
+![Header](assets/media//header-image.png)
 
 <span style="display: block; margin-top: 40px;"></span>
 
@@ -57,21 +57,27 @@ My professional experience revolves around collaborating with clients and team m
       <br>
       <a href="https://www.chatrrapp.com/" style="color: #4ADEDD;">ChatrrApp.com</a>
     </td>
-    <td style="vertical-align: top; width: 50%; padding-right: 20px;">
-      <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;">
-        <li>Node.js</li>
-        <li>TypeScript</li>
-        <li>React Native</li>
-        <li>Expo</li>
-        <li>Redux</li>
-        <li>Firebase</li>
-        <li>Google Cloud Platform</li>
-        <li>JsSIP</li>
-        <li>WebRTC</li>
-        <li>GitHub Actions</li>
-        <li>Sentry</li>
-        <li>CSS</li>
-      </ul>
+    <td style="vertical-align: top; width: 50%;">
+      <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%; border: none;">
+        <tr>
+          <td>
+            <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;">
+              <li>Node.js</li>
+              <li>TypeScript</li>
+              <li>React Native</li>
+              <li>Expo</li>
+              <li>Redux</li>
+              <li>Firebase</li>
+              <li>Google Cloud Platform</li>
+              <li>JsSIP</li>
+              <li>WebRTC</li>
+              <li>GitHub Actions</li>
+              <li>Sentry</li>
+              <li>CSS</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -79,42 +85,8 @@ My professional experience revolves around collaborating with clients and team m
 
 
 
-<span style="display: block; margin-top: 20px;"></span>
 
-<div style="display: flex; justify-content: center; margin-top: 50px;">
-  <div style="min-width: 15em; max-width: 25; margin-right: 15px;">
-    <video controls width="250">
-      <source src="./assets/media/feature-highlights.mp4" type="video/mp4">
-    </video>
-  </div>
-  <span style="margin-right: 3em;"></span>
-  <div>
-    <a href="https://www.chatrrapp.com/">
-      <h2>ChatrrApp</h2>
-    </a>
-    <p style="max-width: 25em; min-width: 20em;">ChatrrApp is a VoIP app that rewards users for making calls. Inspired by the need to ease financial burdens and driven by a vision to democratize advertising, ChatrrApp introduces ChatrrCash, paying users for every call made.</p>
-    <p style="max-width: 25em; min-width: 15em;">Leveraging targeted advertisements seamlessly integrated into the call experience, ChatrrApp ensures that users not only connect with their intended recipients but also gain tangible rewards for their engagement.</p>
-    <p style="max-width: 25em; min-width: 15em;">This is the app I built while employed as a software engineer at TeleCAIN.</p>
-  </div>
-  <span style="margin-right: 3em;"></span>
-  <div>
-    <h2>Core Technologies</h2>
-    <ul style="max-width: 25em; min-width: 15em;">
-      <li>Node.js</li>
-      <li>TypeScript</li>
-      <li>React Native</li>
-      <li>Expo</li>
-      <li>Redux</li>
-      <li>Firebase</li>
-      <li>Google Cloud Platform</li>
-      <li>JsSIP</li>
-      <li>WebRTC</li>
-      <li>GitHub Actions</li>
-      <li>Sentry</li>
-      <li>CSS</li>
-    </ul>
-  </div>
-</div>
+
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
