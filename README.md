@@ -57,38 +57,29 @@ My professional experience revolves around collaborating with clients and team m
       <br>
       <a href="https://www.chatrrapp.com/" style="color: #4ADEDD;">ChatrrApp.com</a>
     </td>
-    <td style="vertical-align: top; width: 50%;">
-      <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%; border: none;">
-        <tr>
-          <td>
-            <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;">
-              <li>Node.js</li>
-              <li>TypeScript</li>
-              <li>React Native</li>
-              <li>Expo</li>
-              <li>Redux</li>
-              <li>Firebase</li>
-              <li>Google Cloud Platform</li>
-              <li>JsSIP</li>
-              <li>WebRTC</li>
-              <li>GitHub Actions</li>
-              <li>Sentry</li>
-              <li>CSS</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
+    <td style="vertical-align: top; width: 50%; padding-right: 20px;">
+      <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;">
+        <li>Node.js</li>
+        <li>TypeScript</li>
+        <li>React Native</li>
+        <li>Expo</li>
+        <li>Redux</li>
+        <li>Firebase</li>
+        <li>Google Cloud Platform</li>
+        <li>JsSIP</li>
+        <li>WebRTC</li>
+        <li>GitHub Actions</li>
+        <li>Sentry</li>
+        <li>CSS</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-
-
-
-
-
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
+
+<!-- Contact Info -->
 
 ## 💬 Get In Touch
 
@@ -108,14 +99,7 @@ My professional experience revolves around collaborating with clients and team m
 
 <span style="display: block; margin-top: 40px;"></span>
 
-
-
-
-
-
 <!-- OTHER INFO -->
-
-
 
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer;">🌄 My journey into tech</summary>
@@ -130,14 +114,13 @@ This is the additional information that will appear when the dropdown is expande
 </details>
 
 <span style="display: block; margin-top: 20px;"></span>
-
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer;">💻 I'm currently working on</summary>
 This is the additional information that will appear when the dropdown is expanded.
 </details>
 
-<span style="display: block; margin-top: 20px;"></span>
 
+<span style="display: block; margin-top: 20px;"></span>
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer; color: fff;">📖 I'm currently learning</summary>
 This is the additional information that will appear when the dropdown is expanded.
@@ -156,18 +139,3 @@ summary::marker {
 
 <span style="display: block; margin-top: 20px;"></span>
 
-
-<!--
-**Phillupz/PhillupZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
