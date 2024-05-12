@@ -36,7 +36,7 @@ My professional experience revolves around collaborating with clients and team m
 
 <!-- Featured Project -->
 ## :star2: Featured Project
-[![ChatrrApp Feature Highlight](./assets/media/chatrrappthumbnail.png)](https://vimeo.com/945420328?share=copy)
+[![ChatrrApp Feature Highlight](./assets/media/chatrrapp-thumbnail.png)](https://vimeo.com/945420328?share=copy)
 
 <!-- Project Details -->
 ![Header](assets/media/project-description.png)
