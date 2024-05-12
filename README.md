@@ -19,6 +19,8 @@
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/GCP.svg" align="left" height="60" width="50" style="margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Firebase.svg" align="left" height="60" width="50" style="margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" align="left" height="60" width="50" style="margin-right: 10px;">
+<br></br>
+<br></br>
 
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
@@ -48,10 +50,10 @@ My professional experience revolves around collaborating with clients and team m
 ## 💬 Get In Touch
 
 <a href="https://www.linkedin.com/in/phillup-zukowski/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg" style="padding-right: 10px;">
+  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg" height="60" width="50" style="padding-right: 10px;">
 </a>
 <a href="mailto:phillup.zukowski@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg" style="padding-right: 10px;">
+  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg" height="60" width="50" style="padding-right: 10px;">
 </a>
 
 
