@@ -21,11 +21,11 @@
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/AWS.svg" align="left" height="60" width="50" style="margin-right: 10px;">
 <br></br>
 <br></br>
+<br></br>
 
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
-<br></br>
 
 <!-- BIO -->
 
