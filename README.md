@@ -64,7 +64,7 @@ My professional experience revolves around collaborating with clients and team m
 <!-- Contact Info -->
 ## 💬 Get In Touch
 
-[![LinkedIn](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg)]([mailto:phillup.zukowski@gmail.com](https://www.linkedin.com/in/phillup-zukowski/))
+[![LinkedIn](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg)](https://www.linkedin.com/in/phillup-zukowski/)
 &nbsp;
 &nbsp;
 [![Email](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg)](mailto:phillup.zukowski@gmail.com)
