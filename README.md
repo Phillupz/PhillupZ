@@ -34,66 +34,19 @@ My professional experience revolves around collaborating with clients and team m
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
-## :star2: Project Highlight
+<!-- Featured Project -->
+## :star2: Featured Project
 [![ChatrrApp Feature Highlight](./assets/media/chatrrappthumbnail.png)](https://vimeo.com/945420328?share=copy)
 
 <!-- Project Details -->
-
-<div style="width: 94%; display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="padding: 4em; flex: 1;">
-    <b style="display: block; padding-bottom: 20px; text-align: center; font-size: 30px;">Description</b>
-    <p>
-      ChatrrApp is a VoIP app that rewards users for making calls. Inspired by the need to ease financial burdens and driven by a vision to democratize advertising, ChatrrApp introduces ChatrrCash, paying users for every call made.
-    </p>
-    <p>
-      Leveraging targeted advertisements seamlessly integrated into the call experience, ChatrrApp ensures that users not only connect with their intended recipients but also gain tangible rewards for their engagement.
-    </p>
-    <p>
-      This is the app I built while employed as a software engineer at TeleCAIN.
-    </p>
-    <p>
-      <a href="https://www.chatrrapp.com/" style="color: #4ADEDD;">ChatrrApp.com</a>
-    </p>
-  </div>
-  <div style="padding: 4em; flex: 1;">
-    <b style="display: block; padding-bottom: 20px; text-align: center; font-size: 30px;">Technologies</b>
-    <ul style="padding-left: 15px; margin: 0;">
-      <li>Node.js</li>
-      <li>TypeScript</li>
-      <li>React Native</li>
-      <li>Expo</li>
-      <li>Redux</li>
-      <li>Firebase</li>
-      <li>Google Cloud Platform</li>
-      <li>JsSIP</li>
-      <li>WebRTC</li>
-      <li>GitHub Actions</li>
-      <li>Sentry</li>
-      <li>CSS</li>
-    </ul>
-  </div>
-</div>
-
-
-
-<hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
-<span style="display: block; margin-top: 40px;"></span>
+![Header](assets/media/project-description.png)
 
 <!-- Contact Info -->
 
 ## 💬 Get In Touch
 
-<a href="https://www.linkedin.com/in/phillup-zukowski/">
-  <svg height="45" width="45" viewBox="0 0 128 128">
-    <path fill="#4ADEDD" d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3zM39.17 107H21.06V48.73h18.11zm-9-66.21a10.5 10.5 0 1110.49-10.5 10.5 10.5 0 01-10.54 10.48zM107 107H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53V48.73h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75z"></path>
-  </svg>
-</a>
-<span style="margin-right: 10px;"></span>
-<a href="mailto:phillup.zukowski@gmail.com">
-  <svg height="45" width="45" viewBox="0 -960 960 960" fill="#4ADEDD">
-    <path d="M160-160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800h640q33 0 56.5 23.5T880-720v480q0 33-23.5 56.5T800-160H160Zm320-280 320-200v-80L480-520 160-720v80l320 200Z"/>
-  </svg>
-</a>
+[![LinkedIn](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg)](https://www.linkedin.com/in/phillup-zukowski/)
+[![Email](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg)](mailto:phillup.zukowski@gmail.com)
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
