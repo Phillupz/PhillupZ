@@ -82,6 +82,7 @@ Then came TeleCAIN, a pivotal chapter in my journey. Collaborating with an excep
 
 And the adventure continues, fueled by a relentless drive to innovate, to create, and to build - whether it's for an organization or for my own aspirations. Because in the end, it's not just about the job title or the paycheck; it's about the joy of crafting something meaningful, something that leaves a lasting impact. And that, my friend, is what keeps me going.
 </details>
+
 <span style="display: block; margin-top: 20px;"></span>
 
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
@@ -125,13 +126,37 @@ While this endeavor was challenging, it was undeniably rewarding and stands as a
 <span style="display: block; margin-top: 20px;"></span>
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer;">💻 I'm currently working on</summary>
-This is the additional information that will appear when the dropdown is expanded.
+
+#### 🤓 Here's what's keeping me busy:
+
+- __LeetCode 75:__ I've completed several courses on data structures and algorithms, tackled 100 problems on AlgoExpert, and I'm currently wrapping up the LeetCode 75 before diving into the LeetCode top 150 interview question list.
+
+- __Interview Prep:__ I've been diligently reviewing hundreds of pages of notes covering everything from web to mobile development. Preparation is key, and I'm leaving no stone unturned to ensure I'm ready for any challenge.
+
+- __Networking:__ Collaboration and mentorship are invaluable, so I'm actively engaging with my career coach and mentors to craft and execute an effective networking strategy. Building meaningful connections is essential in today's professional landscape.
+
+- __Personal Branding:__ Crafting a strong digital presence with a focus on personal branding is crucial. I'm dedicated to showcasing my skills, experiences, and unique value proposition across various online platforms, establishing myself as a reputable and recognizable figure in the industry.
+
+These endeavors keep me engaged and motivated as I strive for continuous growth and development in my career journey.
 </details>
 
 <span style="display: block; margin-top: 20px;"></span>
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer; color: fff;">📖 I'm currently learning</summary>
-This is the additional information that will appear when the dropdown is expanded.
+
+#### 📝 HarvardX CS50: Introduction to Computer Science
+
+Currently, I'm enrolled in HarvardX's CS50: Introduction to Computer Science. This course allows me to delve into C and low-level programming during my weekends, strengthening my foundational knowledge in the field.
+
+#### 🔬 Topics:
+
+- A broad and robust understanding of computer science and programming
+- How to think algorithmically and solve programming problems efficiently
+- Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
+- Familiarity with a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML
+- How to engage with a vibrant community of like-minded learners from all levels of experience
+- How to develop and present a final programming project to your peers
+
 </details>
 
 <span style="display: block; margin-top: 20px;"></span>
