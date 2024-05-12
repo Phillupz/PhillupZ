@@ -49,11 +49,11 @@ My professional experience revolves around collaborating with clients and team m
 
 ## 💬 Get In Touch
 
-<a href="https://www.linkedin.com/in/phillup-zukowski/" target="_blank" style="text-decoration: none; padding-right: 10px;">
+<a href="https://www.linkedin.com/in/phillup-zukowski/" align="left" target="_blank" style="text-decoration: none; padding-right: 10px;">
   <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg" height="60" width="50">
 </a>
-<a href="mailto:phillup.zukowski@gmail.com" target="_blank" style="text-decoration: none; padding-right: 10px;">
-  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg" height="60" width="50">
+<a href="mailto:phillup.zukowski@gmail.com" align="left" target="_blank" style="text-decoration: none; padding-right: 10px;">
+  <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/Email.svg" height="60" width="50" >
 </a>
 
 
