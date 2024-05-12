@@ -23,13 +23,12 @@
 <br></br>
 <br></br>
 
-
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
 <!-- BIO -->
 
-## :art: Bio
+## 🎨 Bio
 
 Software engineer with a background in consultative sales, and a deep-seated passion for music.
 
@@ -39,7 +38,7 @@ My professional experience revolves around collaborating with clients and team m
 <span style="display: block; margin-top: 40px;"></span>
 
 <!-- Featured Project -->
-## :star2: Featured Project
+## 🌟 Featured Project
 [![ChatrrApp Feature Highlight](./assets/media/chatrrapp-thumbnail.png)](https://vimeo.com/945420328?share=copy)
 
 <!-- Project Details -->
@@ -51,6 +50,8 @@ My professional experience revolves around collaborating with clients and team m
   <img src="assets/media/project-description-dark.png" alt="Project description" />
 </a>
 
+<hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
+<span style="display: block; margin-top: 40px;"></span>
 
 <!-- Contact Info -->
 ## 💬 Get In Touch
@@ -63,7 +64,7 @@ My professional experience revolves around collaborating with clients and team m
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
-<!-- OTHER INFO -->
+<!-- My journey into tech -->
 
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer;">🌄 My journey into tech</summary>
@@ -96,6 +97,8 @@ And the adventure continues, fueled by a relentless drive to innovate, to create
 </details>
 
 <span style="display: block; margin-top: 20px;"></span>
+
+<!-- My proudest achievement -->
 
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer;">🏆 My proudest achievement</summary>
@@ -136,6 +139,9 @@ While this endeavor was challenging, it was undeniably rewarding and stands as a
 </details>
 
 <span style="display: block; margin-top: 20px;"></span>
+
+<!-- I'm currently working on -->
+
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer;">💻 I'm currently working on</summary>
 
@@ -153,6 +159,9 @@ These endeavors keep me engaged and motivated as I strive for continuous growth 
 </details>
 
 <span style="display: block; margin-top: 20px;"></span>
+
+<!-- I'm currently learning -->
+
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer; color: fff;">📖 I'm currently learning</summary>
 
