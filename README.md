@@ -43,7 +43,14 @@ My professional experience revolves around collaborating with clients and team m
 [![ChatrrApp Feature Highlight](./assets/media/chatrrapp-thumbnail.png)](https://vimeo.com/945420328?share=copy)
 
 <!-- Project Details -->
-![Header](assets/media/project-description.png)
+<a href="https://github.com/Phillupz#gh-light-mode-only">
+  <img src="assets/media/project-description-light.png" alt="Project description" />
+</a>
+
+<a href="https://github.com/Phillupz#gh-dark-mode-only">
+  <img src="assets/media/project-description-dark.png" alt="Project description" />
+</a>
+
 
 <!-- Contact Info -->
 ## 💬 Get In Touch
