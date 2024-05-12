@@ -23,7 +23,7 @@
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
-<!-- Bio -->
+<!-- BIO -->
 
 ## :art: Bio
 
@@ -39,14 +39,56 @@ My professional experience revolves around collaborating with clients and team m
 
 <!-- Project Details -->
 
-| Description     | Technologies |
-| ----------- | ----------- |
-| ChatrrApp is a VoIP app that rewards users for making calls. Inspired by the need to ease financial burdens and driven by a vision to democratize advertising, ChatrrApp introduces ChatrrCash, paying users for every call made. <br><br> Leveraging targeted advertisements seamlessly integrated into the call experience, ChatrrApp ensures that users not only connect with their intended recipients but also gain tangible rewards for their engagement. <br><br>  This is the app I built while employed as a software engineer at TeleCAIN. <br><br> <a href="https://www.chatrrapp.com/" style="color: #4ADEDD;">ChatrrApp.com</a> | <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;"><li>Node.js</li><li>TypeScript</li><li>React Native</li><li>Expo</li><li>Redux</li><li>Firebase</li><li>Google Cloud Platform</li><li>JsSIP</li><li>WebRTC</li><li>GitHub Actions</li><li>Sentry</li><li>CSS</li></ul> |
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="text-align: left;"> Description </th>
+    <th style="text-align: left;"> Technologies </th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      ChatrrApp is a VoIP app that rewards users for making calls. Inspired by the need to ease financial burdens and driven by a vision to democratize advertising, ChatrrApp introduces ChatrrCash, paying users for every call made.
+      <br>
+      <br>
+      Leveraging targeted advertisements seamlessly integrated into the call experience, ChatrrApp ensures that users not only connect with their intended recipients but also gain tangible rewards for their engagement.
+      <br>
+      <br>
+      This is the app I built while employed as a software engineer at TeleCAIN.
+      <br>
+      <br>
+      <a href="https://www.chatrrapp.com/" style="color: #4ADEDD;">ChatrrApp.com</a>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
+      <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%; border: none;">
+        <tr>
+          <td>
+            <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;">
+              <li>Node.js</li>
+              <li>TypeScript</li>
+              <li>React Native</li>
+              <li>Expo</li>
+              <li>Redux</li>
+              <li>Firebase</li>
+              <li>Google Cloud Platform</li>
+              <li>JsSIP</li>
+              <li>WebRTC</li>
+              <li>GitHub Actions</li>
+              <li>Sentry</li>
+              <li>CSS</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
-
-<!-- Contact Info -->
 
 ## 💬 Get In Touch
 
