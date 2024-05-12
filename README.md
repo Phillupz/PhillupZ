@@ -39,46 +39,41 @@ My professional experience revolves around collaborating with clients and team m
 
 <!-- Project Details -->
 
-<table border="0" style="table-layout: fixed; width: 100%;">
- <colgroup>
-    <col style="width: 50%;">
-    <col style="width: 50%;">
- </colgroup>
- <tr>
-  <td style="min-width: 35; max-width:55"><b style=" font-size:30px">Description</b></td>
-  <td style="min-width: 35; max-width:55"><b style="font-size:30px">Technologies</b></td>
- </tr>
- <tr>
-    <td style="vertical-align: top;">
+<div style="width: 94%; display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="padding: 4em; flex: 1;">
+    <b style="display: block; padding-bottom: 20px; text-align: center; font-size: 30px;">Description</b>
+    <p>
       ChatrrApp is a VoIP app that rewards users for making calls. Inspired by the need to ease financial burdens and driven by a vision to democratize advertising, ChatrrApp introduces ChatrrCash, paying users for every call made.
-      <br>
-      <br>
+    </p>
+    <p>
       Leveraging targeted advertisements seamlessly integrated into the call experience, ChatrrApp ensures that users not only connect with their intended recipients but also gain tangible rewards for their engagement.
-      <br>
-      <br>
+    </p>
+    <p>
       This is the app I built while employed as a software engineer at TeleCAIN.
-      <br>
-      <br>
+    </p>
+    <p>
       <a href="https://www.chatrrapp.com/" style="color: #4ADEDD;">ChatrrApp.com</a>
-    </td>
-    <td>
-      <ul style="max-width: 25em; min-width: 15em; padding-left: 15px; margin: 0;">
-        <li>Node.js</li>
-        <li>TypeScript</li>
-        <li>React Native</li>
-        <li>Expo</li>
-        <li>Redux</li>
-        <li>Firebase</li>
-        <li>Google Cloud Platform</li>
-        <li>JsSIP</li>
-        <li>WebRTC</li>
-        <li>GitHub Actions</li>
-        <li>Sentry</li>
-        <li>CSS</li>
-      </ul>
-    </td>
- </tr>
-</table>
+    </p>
+  </div>
+  <div style="padding: 4em; flex: 1;">
+    <b style="display: block; padding-bottom: 20px; text-align: center; font-size: 30px;">Technologies</b>
+    <ul style="padding-left: 15px; margin: 0;">
+      <li>Node.js</li>
+      <li>TypeScript</li>
+      <li>React Native</li>
+      <li>Expo</li>
+      <li>Redux</li>
+      <li>Firebase</li>
+      <li>Google Cloud Platform</li>
+      <li>JsSIP</li>
+      <li>WebRTC</li>
+      <li>GitHub Actions</li>
+      <li>Sentry</li>
+      <li>CSS</li>
+    </ul>
+  </div>
+</div>
+
 
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
@@ -101,7 +96,6 @@ My professional experience revolves around collaborating with clients and team m
 </a>
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
-
 <span style="display: block; margin-top: 40px;"></span>
 
 <!-- OTHER INFO -->
@@ -110,7 +104,6 @@ My professional experience revolves around collaborating with clients and team m
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer;">🌄 My journey into tech</summary>
 This is the additional information that will appear when the dropdown is expanded.
 </details>
-
 <span style="display: block; margin-top: 20px;"></span>
 
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
@@ -124,13 +117,11 @@ This is the additional information that will appear when the dropdown is expande
 This is the additional information that will appear when the dropdown is expanded.
 </details>
 
-
 <span style="display: block; margin-top: 20px;"></span>
 <details style="border-top: none; border-bottom: .5px solid #4AA9DE;">
 <summary style="padding: 0.5em; padding-bottom: 1em; cursor: pointer; color: fff;">📖 I'm currently learning</summary>
 This is the additional information that will appear when the dropdown is expanded.
 </details>
-
 
 <span style="display: block; margin-top: 20px;"></span>
 
