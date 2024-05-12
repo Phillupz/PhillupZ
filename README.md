@@ -21,14 +21,14 @@
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
-
-
 <!-- ################# BIO ################# -->
 
 ## :art: Bio
+
 Software engineer with a background in consultative sales, and a deep-seated passion for music.
 
 My professional experience revolves around collaborating with clients and team members to tackle complex challenges head-on, crafting novel solutions, and bringing ideas to fruition. Inspired by my love for music composition, my approach to software design and development emphasizes clarity and elegance, translating abstract concepts into practical, impactful solutions.
+
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
