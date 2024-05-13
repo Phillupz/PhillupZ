@@ -99,7 +99,7 @@ The boot camp was no walk in the park, but with grit and determination, I conque
 
 #### 🚀 TeleCAIN and Beyond
 
-Then came TeleCAIN, a pivotal chapter in my journey. Collaborating with an exceptional team, we brought ChatrrApp to life, etching our mark in the annals of tech history.
+Then came TeleCAIN, a pivotal chapter in my journey. Collaborating with an exceptional team, we brought ChatrrApp to life.
 
 And the adventure continues, fueled by a relentless drive to innovate, to create, and to build - whether it's for an organization or for my own aspirations. Because in the end, it's not just about the job title or the paycheck; it's about the joy of crafting something meaningful, something that leaves a lasting impact. And that, my friend, is what keeps me going.
 </details>
