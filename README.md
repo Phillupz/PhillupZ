@@ -74,22 +74,26 @@ My professional experience revolves around collaborating with clients and team m
 </a> -->
 
 <a align href="https://vimeo.com/735482956?share=copy#gh-dark-mode-only" style="text-decoration: none;">
-  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/gogh-dark.png" alt="Project description" />
+  <img width="337.45" height="475.15" src="assets/media/cards/gogh-dark.png" alt="Project description" />
 </a>
 <a align href="https://vimeo.com/735482956?share=copy#gh-light-mode-only" style="text-decoration: none;">
-  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/gogh-light.png" alt="Project description" />
+  <img width="337.45" height="475.15" src="assets/media/cards/gogh-light.png" alt="Project description" />
 </a>
+&nbsp;
+&nbsp;
 <a href="https://vimeo.com/735904095?share=copyz#gh-dark-mode-only" style="text-decoration: none;">
-  <img style="margin-right: 20px;" width="337.45" height="475.15" src="assets/media/cards/busybee-dark.png" alt="Project description" />
+  <img width="337.45" height="475.15" src="assets/media/cards/busybee-dark.png" alt="Project description" />
 </a>
 <a href="https://vimeo.com/735904095?share=copyz#gh-light-mode-only" style="text-decoration: none;">
-  <img style="margin-right: 20px;" width="337.45" height="475.15" src="assets/media/cards/busybee-light.png" alt="Project description" />
+  <img style="width="337.45" height="475.15" src="assets/media/cards/busybee-light.png" alt="Project description" />
 </a>
+&nbsp;
+&nbsp;
 <a href="https://vimeo.com/735913184?share=copy#gh-dark-mode-only" style="text-decoration: none;">
-  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/quotr-dark.png" alt="Project description" />
+  <img style="width="337.45" height="475.15" src="assets/media/cards/quotr-dark.png" alt="Project description" />
 </a>
 <a href="https://vimeo.com/735913184?share=copy#gh-light-mode-only" style="text-decoration: none;">
-  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/quotr-light.png" alt="Project description" />
+  <img style="width="337.45" height="475.15" src="assets/media/cards/quotr-light.png" alt="Project description" />
 </a>
 
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
