@@ -10,6 +10,8 @@
 
 <span style="display: block; margin-top: 40px;"></span>
 
+<!-- Tools and Technologies -->
+
 ## 🤖 Tools and Technologies
 
 <img src="https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/HTML.svg" align="left" height="60" width="50" height="50" style="margin-right: 10px;">
@@ -46,10 +48,12 @@ My professional experience revolves around collaborating with clients and team m
 <span style="display: block; margin-top: 40px;"></span>
 
 <!-- Featured Project -->
+
 ## 🌟 Featured Project
 [![ChatrrApp Feature Highlight](./assets/media/chatrrapp-thumbnail.png)](https://vimeo.com/945420328?share=copy)
 
 <!-- Project Details -->
+
 <a href="https://github.com/Phillupz#gh-light-mode-only">
   <img src="assets/media/project-description-light.png" alt="Project description" />
 </a>
@@ -61,7 +65,38 @@ My professional experience revolves around collaborating with clients and team m
 <hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
 <span style="display: block; margin-top: 40px;"></span>
 
+<!-- Showcase -->
+
+## ✨ Showcase
+
+<!-- <a href="https://github.com/Phillupz#gh-light-mode-only">
+  <img src="assets/media/cards/gogh-light.png" alt="Project description" />
+</a> -->
+
+<a align href="https://vimeo.com/735482956?share=copy#gh-dark-mode-only" style="text-decoration: none;">
+  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/gogh-dark.png" alt="Project description" />
+</a>
+<a align href="https://vimeo.com/735482956?share=copy#gh-light-mode-only" style="text-decoration: none;">
+  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/gogh-light.png" alt="Project description" />
+</a>
+<a href="https://vimeo.com/735904095?share=copyz#gh-dark-mode-only" style="text-decoration: none;">
+  <img style="margin-right: 20px;" width="337.45" height="475.15" src="assets/media/cards/busybee-dark.png" alt="Project description" />
+</a>
+<a href="https://vimeo.com/735904095?share=copyz#gh-light-mode-only" style="text-decoration: none;">
+  <img style="margin-right: 20px;" width="337.45" height="475.15" src="assets/media/cards/busybee-light.png" alt="Project description" />
+</a>
+<a href="https://vimeo.com/735913184?share=copy#gh-dark-mode-only" style="text-decoration: none;">
+  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/quotr-dark.png" alt="Project description" />
+</a>
+<a href="https://vimeo.com/735913184?share=copy#gh-light-mode-only" style="text-decoration: none;">
+  <img style="margin-right: 20px; width="337.45" height="475.15" src="assets/media/cards/quotr-light.png" alt="Project description" />
+</a>
+
+<hr style="height:1px;border:none;color:#4AA9DE;background-color:#4AA9DE;">
+<span style="display: block; margin-top: 40px;"></span>
+
 <!-- Contact Info -->
+
 ## 💬 Get In Touch
 
 [![LinkedIn](https://raw.githubusercontent.com/Phillupz/PhillupZ/main/assets/svg/LinkedIn.svg)](https://www.linkedin.com/in/phillup-zukowski/)
@@ -79,7 +114,7 @@ My professional experience revolves around collaborating with clients and team m
 
 #### 🎇 The Spark
 
-Picture me at 14, in a computer tech class, eyes glued to the screen, soaking in every word from the teacher. The task? To program a small remote-controlled vehicle to navigate a figure eight. It took a bit of head-scratching, maybe a little more than a bit, but when it finally zipped through the course on its own, it felt like witnessing magic. That's the moment my love affair with software engineering ignited.
+Picture me at 14, in a computer tech class, eyes glued to the screen, soaking in every word from the teacher. The task? To program a small remote-controlled vehicle to navigate a figure eight. It took a bit of head-scratching, maybe a little more than a bit, but when it finally zipped through the course on its own, it felt like witnessing magic. That's the moment my love for software engineering was ignited.
 
 #### 👷‍♂️ Navigating Trades
 
